@@ -65,7 +65,9 @@ customer-churn-eda/
 | `plot_distribution()` | Plots a stacked histogram comparing churn vs retention for any numeric column |
 
 ---
+
 ## ▶️ How to Run
+
 1. Clone or download this repository
 2. Place both CSV files inside a `forage/` subfolder
 3. Install dependencies:
@@ -76,6 +78,7 @@ customer-churn-eda/
    ```bash
    jupyter notebook customer_churn_eda.ipynb
    ```
+
 ---
 
 ## 📁 Data Source
@@ -83,8 +86,11 @@ customer-churn-eda/
 Datasets provided as part of the **BCG Data Science Virtual Experience** on Forage.  
 - `client_data.csv` — Customer account details and churn labels  
 - `price_data.csv` — Historical energy pricing per customer  
+
 > Source: https://www.theforage.com/
+
 ---
+
 ## 👤 Author
 
 ODETUNDE OLUMIDE | DATA ANALYST (https://www.linkedin.com/in/olumide-temitope-odetunde-209924201/)
